@@ -1,0 +1,17 @@
+# Maven
+target/
+pom.xml.tag
+release.properties
+
+# Eclipse
+.settings/
+.project
+.classpath
+bin/
+
+# VS Code
+.vscode/
+
+# Logs et fichiers temporaires
+*.log
+MainFX.log
